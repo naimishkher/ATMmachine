@@ -1,0 +1,9 @@
+ <form role="form" #cardform="ngForm" (ngSubmit)="check_verify(cardform.value)">
+    <div>
+        <input type="number" [(ngModel)]="card_number" name="card_number">
+    </div>
+    <div>
+        <input type="password" [(ngModel)]="password" name="password">
+    </div>
+    <button type="submit">Verify</button>
+</form>

@@ -1,0 +1,7 @@
+ <form role="form" #withdrawamountform="ngForm" (ngSubmit)="withdraw(withdrawamountform.value)">
+    <div class="form-group">
+        <input type="number" [(ngModel)]="withDrawAmount" name="withDrawAmount" placeholder="Withdraw Amount" required="">
+        <input type="hidden"  [(ngModel)]="card_id" name="card_id">
+    </div>
+    <button type="submit">WithDraw</button>
+</form>

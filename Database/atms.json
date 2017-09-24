@@ -1,0 +1,20 @@
+{ 
+    "_id" : ObjectId("59c54d21ccab6436ec3517f4"), 
+    "note_detail" : [
+        {
+            "count" : NumberInt(15), 
+            "note" : NumberInt(2000), 
+            "_id" : ObjectId("59c798bca9b9271d0056dcc6")
+        }, 
+        {
+            "count" : NumberInt(15), 
+            "note" : NumberInt(500), 
+            "_id" : ObjectId("59c798bca9b9271d0056dcc5")
+        }, 
+        {
+            "count" : NumberInt(18), 
+            "note" : NumberInt(100), 
+            "_id" : ObjectId("59c798bca9b9271d0056dcc4")
+        }
+    ]
+}

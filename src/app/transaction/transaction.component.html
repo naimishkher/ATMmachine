@@ -1,0 +1,13 @@
+<div>
+    <ol>
+            <li *ngFor="let item of transactionDetail"> 
+               <p> Your debited amoount is <b>{{item.debitAmount}}</b> and your available balance when debited is <b>{{item.availableBalanceWhenDebited}}</b> on <b>{{item.created_at}}</b></p> <br>
+                <ul>
+                    <li *ngFor="let subItem of item.transactionDetail"> 
+                        <div>{{subItem.note}} * {{subItem.count}} </div> 
+                    </li>
+                </ul>
+                <br>
+            </li>
+    </ol>
+</div>

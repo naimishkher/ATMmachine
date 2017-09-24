@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "59c54d21ccab6436ec3517f4" }, "note_detail" : [ { "count" : 15, "note" : 2000, "_id" : { "$oid" : "59c798bca9b9271d0056dcc6" } }, { "count" : 15, "note" : 500, "_id" : { "$oid" : "59c798bca9b9271d0056dcc5" } }, { "count" : 18, "note" : 100, "_id" : { "$oid" : "59c798bca9b9271d0056dcc4" } } ] }

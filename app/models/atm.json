@@ -1,0 +1,16 @@
+{
+	"denominations": [
+		{
+			"denomination": 100,
+			"count": 17
+		},
+		{
+			"denomination": 500,
+			"count": 27
+		},
+		{
+			"denomination": 2000,
+			"count": 37
+		}
+	]
+}

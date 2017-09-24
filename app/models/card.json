@@ -1,0 +1,13 @@
+{
+    "unique_id" : 1,
+    "card_number" : "4242424242424242",
+    "pin" : "1234",
+    "balance" : "5200"
+}
+
+{
+    "unique_id" : 2,
+    "card_number" : "4242424242420000",
+    "pin" : "5678",
+    "balance" : "3500"
+}

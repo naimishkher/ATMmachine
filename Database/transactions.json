@@ -1,0 +1,150 @@
+{ 
+    "_id" : ObjectId("59c7928b8ec5a614149e049c"), 
+    "debitAmount" : NumberInt(1200), 
+    "availableBalanceWhenDebited" : NumberInt(3800), 
+    "updated_at" : ISODate("2017-09-24T11:10:03.618+0000"), 
+    "created_at" : ISODate("2017-09-24T11:10:03.618+0000"), 
+    "transactionDetail" : [
+        {
+            "note" : NumberInt(2000), 
+            "count" : NumberInt(0), 
+            "_id" : ObjectId("59c7928b8ec5a614149e049f")
+        }, 
+        {
+            "note" : NumberInt(500), 
+            "count" : NumberInt(2), 
+            "_id" : ObjectId("59c7928b8ec5a614149e049e")
+        }, 
+        {
+            "note" : NumberInt(100), 
+            "count" : NumberInt(2), 
+            "_id" : ObjectId("59c7928b8ec5a614149e049d")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59c792bd8ec5a614149e04a3"), 
+    "debitAmount" : NumberInt(200), 
+    "availableBalanceWhenDebited" : NumberInt(3600), 
+    "updated_at" : ISODate("2017-09-24T11:10:53.790+0000"), 
+    "created_at" : ISODate("2017-09-24T11:10:53.790+0000"), 
+    "transactionDetail" : [
+        {
+            "note" : NumberInt(2000), 
+            "count" : NumberInt(0), 
+            "_id" : ObjectId("59c792bd8ec5a614149e04a6")
+        }, 
+        {
+            "note" : NumberInt(500), 
+            "count" : NumberInt(0), 
+            "_id" : ObjectId("59c792bd8ec5a614149e04a5")
+        }, 
+        {
+            "note" : NumberInt(100), 
+            "count" : NumberInt(2), 
+            "_id" : ObjectId("59c792bd8ec5a614149e04a4")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59c7936a6ff910200c3aedd3"), 
+    "debitAmount" : NumberInt(700), 
+    "availableBalanceWhenDebited" : NumberInt(2800), 
+    "updated_at" : ISODate("2017-09-24T11:13:46.782+0000"), 
+    "created_at" : ISODate("2017-09-24T11:13:46.782+0000"), 
+    "transactionDetail" : [
+        {
+            "note" : NumberInt(2000), 
+            "count" : NumberInt(0), 
+            "_id" : ObjectId("59c7936a6ff910200c3aedd6")
+        }, 
+        {
+            "note" : NumberInt(500), 
+            "count" : NumberInt(1), 
+            "_id" : ObjectId("59c7936a6ff910200c3aedd5")
+        }, 
+        {
+            "note" : NumberInt(100), 
+            "count" : NumberInt(2), 
+            "_id" : ObjectId("59c7936a6ff910200c3aedd4")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59c793dc6ff910200c3aedda"), 
+    "debitAmount" : NumberInt(200), 
+    "availableBalanceWhenDebited" : NumberInt(2600), 
+    "updated_at" : ISODate("2017-09-24T11:15:40.917+0000"), 
+    "created_at" : ISODate("2017-09-24T11:15:40.917+0000"), 
+    "transactionDetail" : [
+        {
+            "note" : NumberInt(2000), 
+            "count" : NumberInt(0), 
+            "_id" : ObjectId("59c793dc6ff910200c3aeddd")
+        }, 
+        {
+            "note" : NumberInt(500), 
+            "count" : NumberInt(0), 
+            "_id" : ObjectId("59c793dc6ff910200c3aeddc")
+        }, 
+        {
+            "note" : NumberInt(100), 
+            "count" : NumberInt(2), 
+            "_id" : ObjectId("59c793dc6ff910200c3aeddb")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59c798092fa472230c48bad9"), 
+    "debitAmount" : NumberInt(1200), 
+    "availableBalanceWhenDebited" : NumberInt(2400), 
+    "updated_at" : ISODate("2017-09-24T11:33:29.131+0000"), 
+    "created_at" : ISODate("2017-09-24T11:33:29.131+0000"), 
+    "transactionDetail" : [
+        {
+            "note" : NumberInt(2000), 
+            "count" : NumberInt(0), 
+            "_id" : ObjectId("59c798092fa472230c48badc")
+        }, 
+        {
+            "note" : NumberInt(500), 
+            "count" : NumberInt(2), 
+            "_id" : ObjectId("59c798092fa472230c48badb")
+        }, 
+        {
+            "note" : NumberInt(100), 
+            "count" : NumberInt(2), 
+            "_id" : ObjectId("59c798092fa472230c48bada")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59c798bca9b9271d0056dcc0"), 
+    "debitAmount" : NumberInt(100), 
+    "availableBalanceWhenDebited" : NumberInt(2300), 
+    "updated_at" : ISODate("2017-09-24T11:36:28.034+0000"), 
+    "created_at" : ISODate("2017-09-24T11:36:28.034+0000"), 
+    "transactionDetail" : [
+        {
+            "note" : NumberInt(2000), 
+            "count" : NumberInt(0), 
+            "_id" : ObjectId("59c798bca9b9271d0056dcc3")
+        }, 
+        {
+            "note" : NumberInt(500), 
+            "count" : NumberInt(0), 
+            "_id" : ObjectId("59c798bca9b9271d0056dcc2")
+        }, 
+        {
+            "note" : NumberInt(100), 
+            "count" : NumberInt(1), 
+            "_id" : ObjectId("59c798bca9b9271d0056dcc1")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
